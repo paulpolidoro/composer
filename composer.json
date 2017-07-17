@@ -1,0 +1,6 @@
+{
+  "name": "paulpolidoro/mask",
+  "description": "Custom mask string",
+  "keywords": ["phpmask", "mask", "mascara"],
+  "license": "MIT"
+}
