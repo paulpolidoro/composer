@@ -1,25 +1,19 @@
 # paulpolidoro/mask
 
-Para criação de máscaras de CPF, CEP, Monetária, Telefone, etc
+<p>Para criação de máscaras de CPF, CEP, Monetária, Telefone, etc</p>
 
-Composer install
-Instalação via composer
-
+<p>Composer install</p>
 
 ```
 composer require paulpolidoro/mask
 ```
-
-or add on your composer.json file
-ou adicionar no seu arquivo composer.json
+<p>or add on your composer.json file</p>
 
 
-How to use
-Como usar
+<h2>How to use</h2>
 
 
 Applying default masks
-Aplicando mascaras pré definidas
 
 
 ```php
@@ -37,9 +31,7 @@ echo Mask::create(888888888, Mask::MASK_TEL11);
 ```
 
 Creating custom masks
-=====================
-Criando mascaras personalizadas
-===============================
+
 ```php
 echo Mask::create(8888888888, "##.###-####.#");
 // 88.888-8888.8
