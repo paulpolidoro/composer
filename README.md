@@ -3,28 +3,28 @@
 Para criação de máscaras de CPF, CEP, Monetária, Telefone, etc
 
 Composer install
-================
+----------------
 Instalação via composer
-=======================
+-----------------------
 
 ```
 composer require paulpolidoro/mask
 ```
 
 or add on your composer.json file
-=================================
+---------------------------------
 ou adicionar no seu arquivo composer.json
-=========================================
+-----------------------------------------
 
 How to use
-==========
+----------
 Como usar
-=========
+---------
 
 Applying default masks
-======================
+----------------------
 Aplicando mascaras pré definidas
-================================
+--------------------------------
 
 ```php
 // Formatando CEP
