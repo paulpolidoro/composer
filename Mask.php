@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Paul
+ * User: PaulPolidoro
+ * Email: leedshs@gmail.com
  * Date: 17/07/2017
  * Time: 08:33
  */
 
-namespace App\Sinpe;
 
 
 class Mask
