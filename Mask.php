@@ -11,6 +11,9 @@
 
 class Mask
 {
+	/**
+	* Insira aqui as macaras padrão para a sua aplicação
+	*/
     public static $MASK_CNPJ = "##.###.###/####-##";
     public static $MASK_TEL10 = "(##) ####-####";
     public static $MASK_TEL11 = "(##) #####-####";
