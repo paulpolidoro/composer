@@ -19,6 +19,7 @@ class Mask
     public static $MASK_TEL11 = "(##) #####-####";
     public static $MASK_CPF = "###.###.###-##";
     public static $MASK_CEP = "#####-###";
+    public static $MASK_DATA = "##/##/####";
 
     /**
      * @param mixed $val
